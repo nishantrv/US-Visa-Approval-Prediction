@@ -84,8 +84,3 @@ US Visa Approval Prediction/
 ![Model Pusher](https://github.com/nishantrv/US-Visa-Approval-Prediction/assets/18679312/096460df-aa16-4d1c-883b-71caa4a3be89)
 
 
-
-## Model Training
-
-
-## Model Pusher
