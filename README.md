@@ -2,8 +2,6 @@
 
 This project aims to build a machine learning pipeline for predicting US visa approval. The pipeline includes stages from data ingestion to model deployment. The diagrams provided outline the workflow and components involved in the project.
 
-# Folder Structure
-![Folder Structure](https://github.com/nishantrv/US-Visa-Approval-Prediction/assets/18679312/885abe91-cdef-4833-a502-145d5fd46f40)
 
 
 1. ## Project Structure
