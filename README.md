@@ -1,7 +1,3 @@
 # US-Visa-Approval-Prediction
 
-## How to run/ 
-'''
-bash
-conda create -n visa python=3.8 -y
-'''
+https://github.com/nishantrv/US-Visa-Approval-Prediction/blob/main/flowcharts/Folder%20Structure.png
