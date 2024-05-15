@@ -73,7 +73,6 @@ US Visa Approval Prediction/
 - **Save Artifacts**: Store model evaluation artifacts and responses.
 ![Model Evaluation](https://github.com/nishantrv/US-Visa-Approval-Prediction/assets/18679312/0f047176-1cf6-485c-b84a-4b64b0c9131c)
 
--
 7. ## Model Pusher
 - **Config Setup**: Configure paths for model pusher, S3 model key path, and bucket name.
 - **Push Model**: Save the best model to the specified S3 bucket for deployment.
