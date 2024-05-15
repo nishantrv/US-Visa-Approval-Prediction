@@ -1,4 +1,4 @@
-AWS-CICD-Deployment-with-Github-Actions-Docker
+# AWS-CICD-Deployment-with-Github-Actions-Docker
 1. Login to AWS console.
 2. Create IAM user for deployment
 #with specific access
@@ -8,7 +8,7 @@ AWS-CICD-Deployment-with-Github-Actions-Docker
 2. ECR: Elastic Container registry to save your docker image in aws
 
 
-#Description: About the deployment
+## Description: About the deployment
 
 1. Build docker image of the source code
 
@@ -20,7 +20,7 @@ AWS-CICD-Deployment-with-Github-Actions-Docker
 
 5. Lauch your docker image in EC2
 
-#Policy:
+## Policy:
 
 1. AmazonEC2ContainerRegistryFullAccess
 
